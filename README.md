@@ -2,6 +2,8 @@
 
 > nuxt boilerplate
 
+<img src="assets/screen.png">
+
 ## Build Setup
 
 ``` bash
